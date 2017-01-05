@@ -1,0 +1,38 @@
+C:\Users\yuding\Desktop\bot framework\Demo\Bot\Oucheng\Oucheng\bin\Bot Application1.dll.config
+C:\Users\yuding\Desktop\bot framework\Demo\Bot\Oucheng\Oucheng\bin\Bot Application1.dll
+C:\Users\yuding\Desktop\bot framework\Demo\Bot\Oucheng\Oucheng\bin\Bot Application1.pdb
+C:\Users\yuding\Desktop\bot framework\Demo\Bot\Oucheng\Oucheng\bin\Autofac.dll
+C:\Users\yuding\Desktop\bot framework\Demo\Bot\Oucheng\Oucheng\bin\Chronic.dll
+C:\Users\yuding\Desktop\bot framework\Demo\Bot\Oucheng\Oucheng\bin\Microsoft.Bot.Builder.dll
+C:\Users\yuding\Desktop\bot framework\Demo\Bot\Oucheng\Oucheng\bin\Microsoft.Bot.Connector.dll
+C:\Users\yuding\Desktop\bot framework\Demo\Bot\Oucheng\Oucheng\bin\Microsoft.IdentityModel.Protocol.Extensions.dll
+C:\Users\yuding\Desktop\bot framework\Demo\Bot\Oucheng\Oucheng\bin\Microsoft.Rest.ClientRuntime.dll
+C:\Users\yuding\Desktop\bot framework\Demo\Bot\Oucheng\Oucheng\bin\Microsoft.WindowsAzure.Configuration.dll
+C:\Users\yuding\Desktop\bot framework\Demo\Bot\Oucheng\Oucheng\bin\Newtonsoft.Json.dll
+C:\Users\yuding\Desktop\bot framework\Demo\Bot\Oucheng\Oucheng\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\yuding\Desktop\bot framework\Demo\Bot\Oucheng\Oucheng\bin\System.Net.Http.Formatting.dll
+C:\Users\yuding\Desktop\bot framework\Demo\Bot\Oucheng\Oucheng\bin\System.Web.Http.dll
+C:\Users\yuding\Desktop\bot framework\Demo\Bot\Oucheng\Oucheng\bin\System.Web.Http.WebHost.dll
+C:\Users\yuding\Desktop\bot framework\Demo\Bot\Oucheng\Oucheng\bin\Autofac.xml
+C:\Users\yuding\Desktop\bot framework\Demo\Bot\Oucheng\Oucheng\bin\Microsoft.Bot.Builder.xml
+C:\Users\yuding\Desktop\bot framework\Demo\Bot\Oucheng\Oucheng\bin\Microsoft.Bot.Connector.xml
+C:\Users\yuding\Desktop\bot framework\Demo\Bot\Oucheng\Oucheng\bin\Microsoft.IdentityModel.Protocol.Extensions.pdb
+C:\Users\yuding\Desktop\bot framework\Demo\Bot\Oucheng\Oucheng\bin\Microsoft.IdentityModel.Protocol.Extensions.xml
+C:\Users\yuding\Desktop\bot framework\Demo\Bot\Oucheng\Oucheng\bin\Microsoft.Rest.ClientRuntime.xml
+C:\Users\yuding\Desktop\bot framework\Demo\Bot\Oucheng\Oucheng\bin\Microsoft.WindowsAzure.Configuration.xml
+C:\Users\yuding\Desktop\bot framework\Demo\Bot\Oucheng\Oucheng\bin\Newtonsoft.Json.xml
+C:\Users\yuding\Desktop\bot framework\Demo\Bot\Oucheng\Oucheng\bin\System.IdentityModel.Tokens.Jwt.pdb
+C:\Users\yuding\Desktop\bot framework\Demo\Bot\Oucheng\Oucheng\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\yuding\Desktop\bot framework\Demo\Bot\Oucheng\Oucheng\bin\System.Net.Http.Formatting.xml
+C:\Users\yuding\Desktop\bot framework\Demo\Bot\Oucheng\Oucheng\bin\System.Web.Http.xml
+C:\Users\yuding\Desktop\bot framework\Demo\Bot\Oucheng\Oucheng\bin\System.Web.Http.WebHost.xml
+C:\Users\yuding\Desktop\bot framework\Demo\Bot\Oucheng\Oucheng\bin\ar\Microsoft.Bot.Builder.resources.dll
+C:\Users\yuding\Desktop\bot framework\Demo\Bot\Oucheng\Oucheng\bin\en\Microsoft.Bot.Builder.resources.dll
+C:\Users\yuding\Desktop\bot framework\Demo\Bot\Oucheng\Oucheng\bin\es\Microsoft.Bot.Builder.resources.dll
+C:\Users\yuding\Desktop\bot framework\Demo\Bot\Oucheng\Oucheng\bin\fa\Microsoft.Bot.Builder.resources.dll
+C:\Users\yuding\Desktop\bot framework\Demo\Bot\Oucheng\Oucheng\bin\fr\Microsoft.Bot.Builder.resources.dll
+C:\Users\yuding\Desktop\bot framework\Demo\Bot\Oucheng\Oucheng\bin\ja\Microsoft.Bot.Builder.resources.dll
+C:\Users\yuding\Desktop\bot framework\Demo\Bot\Oucheng\Oucheng\bin\ru\Microsoft.Bot.Builder.resources.dll
+C:\Users\yuding\Desktop\bot framework\Demo\Bot\Oucheng\Oucheng\bin\zh-hans\Microsoft.Bot.Builder.resources.dll
+C:\Users\yuding\Desktop\bot framework\Demo\Bot\Oucheng\Oucheng\obj\Debug\Bot Application1.dll
+C:\Users\yuding\Desktop\bot framework\Demo\Bot\Oucheng\Oucheng\obj\Debug\Bot Application1.pdb
